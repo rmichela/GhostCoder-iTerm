@@ -1,0 +1,4 @@
+java -version
+pwd
+date '+%A %W %Y %X'
+whoami
